@@ -1,4 +1,4 @@
-# Image Classification Using Neural Networks
+# Image Classification Using Ai Models
 
 ## Contents
 * `data_processing.py`: handles CIFAR 10 loading, ResNet 18 feature extraction, and PCA.
