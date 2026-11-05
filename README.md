@@ -27,7 +27,8 @@ The CNN utilizes the VGG11 architecture trained on raw 32x32 RGB images.
 
 
 # Output Results:
- 
+
+<img width="323" height="317" alt="Image" src="https://github.com/user-attachments/assets/b02b3e12-bcea-4573-9453-7c35e52bf062" /></br>
 
 The best performing model, MLP, achieved the highest accuracy at 82.4%. This performance is attributed to the input data. The MLP was trained on high level feature vectors extracted by a pre trained ResNet18. Even though the MLP architecture is simple it benefited from the visual features it learned by ResNet on the ImageNet dataset.</br>
 
